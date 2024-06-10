@@ -1,2 +1,2 @@
-# PyTorch_nlp_hate_speech
+# PyTorch NLP Hate Speech
 End to End Hate Speech Classification using PyTorch.
